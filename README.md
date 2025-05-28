@@ -6,5 +6,6 @@
 Melanoma is the most dangerous type of skin cancer, it develops from the melanin-producing cells known as melanocytes. It typically occurs in the skin, but may rarely occur in the mouth, intestines, or eye
 
 ### Our Work
-We used melanoma datasets to train our model and its accuracy reached up to **95.00%** just 250 epochs. You can see these results by the imges
+We used melanoma datasets to train our CNN model and its accuracy reached up to **95.00%** just 250 epochs. You can see these results by the images.
+
 ![image](https://github.com/user-attachments/assets/d0a7a87a-99ac-4d34-a645-c6a81c090db7)
